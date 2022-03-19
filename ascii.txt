@@ -1,0 +1,25 @@
+        .-"-.
+       /|6 6|\
+      {/(_0_)\}
+       _/ ^ \_
+      (/ /^\ \)-'
+       ""' '""
+
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+
+      __   __
+    { ~ \,/ ~ }     
+     \_~_|_~_/       
+      (_/'\_)  
+
+https://www.asciiart.eu/animals 
+https://techinplanet.com/how-to-console-log-ascii-art/
+https://www.freeformatter.com/javascript-escape.html#ad-output 
+
+https://lineadecodigo.com/javascript/pedir-datos-con-prompt-en-javascript/
